@@ -45,8 +45,12 @@ For frontend:
 cd ../frontend
 npm install
 ```
+
 ### 3️⃣ Run the Application
 ```powershell
 For development:
 npm run electron-dev
 ```
+
+## 📥 Download Setup
+[Download File Dependency Analyzer (Windows .exe)](https://github.com/Sumehar-Singh/File-Dependency-Analyzer/releases/download/v1.0.0/File.Dependency.Analyzer.Setup.1.0.0.exe)
